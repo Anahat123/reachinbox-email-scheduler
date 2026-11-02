@@ -1,0 +1,10 @@
+name,email,company
+Tame Ray,tame@jmail.com,Acme
+Lame Doe,lame@jmail.com,Globex
+Dame Lee,dame@jmail.com,Initech
+John Smith,john.smith@example.com,Umbrella
+Olive Stone,olive@example.com,Hooli
+Sarah Wilson,sarah.wilson@example.com,Stark
+Support Team,support@example.com,Wayne
+Invalid Row,not-an-email,Nowhere
+Tame Ray (dupe),TAME@jmail.com,Acme
